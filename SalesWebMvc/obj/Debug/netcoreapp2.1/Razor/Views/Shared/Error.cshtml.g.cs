@@ -20,12 +20,16 @@ using SalesWebMvc;
 #line hidden
 #line 2 "C:\Users\vinic\source\repos\SalesWebMvc\SalesWebMvc\Views\_ViewImports.cshtml"
 using SalesWebMvc.Models;
+
+#line default
+#line hidden
+#line 3 "C:\Users\vinic\source\repos\SalesWebMvc\SalesWebMvc\Views\_ViewImports.cshtml"
 using SalesWebMvc.Models.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"583387379a597938339285f5a623245873b0a91c", @"/Views/Shared/Error.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"70dafd425af89a5439216963c7093f2ead686e4a", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"b5e09b6d7d3b83c1ca26760545794390c848197e", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared_Error : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<ErrorViewModel>
     {
         #pragma warning disable 1998
